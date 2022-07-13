@@ -1,4 +1,5 @@
-Free IPTV Links Daily M3U Playlists from all over the world for sports movies series kids shows huge selection of vod and much more, easy to copy links and simple user interface.
+<center>
+<p>Free IPTV Links Daily M3U Playlists from all over the world for sports movies series kids shows huge selection of vod and much more, easy to copy links and simple user interface.</p>
 
 <a href="https://best.freeiptv.life">free iptv links</a>
 
@@ -6,6 +7,7 @@ Free IPTV Links Daily M3U Playlists from all over the world for sports movies se
 
 <a href="https://pro.freeiptv.life">iptv m3u</a>
 
-Kodi Best Builds, Addons, Firestick TV, IPTV, Apps, Android Apks:
+<p>Kodi Best Builds, Addons, Firestick TV, IPTV, Apps, Android Apks:</p>
 
 <a href="https://kodi.freeiptv.life">kodi best builds addons</a>
+</center>
