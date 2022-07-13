@@ -20,7 +20,7 @@ function sitemap3(root) {
       }
     }
     if (feed.entry.length >= max) { start += max; runSitemap3(); } else {
-      let print = ''; for (let x = 0; x < sitemap3Arr.length; x++) { print += `<h3><a href=\"${sitemap3Arr[x].url}\" title=\"${sitemap3Arr[x].judul}\">${sitemap3Arr[x].judul}</a></h3><br/>`; }
+      let print = ''; for (let x = 0; x < sitemap3Arr.length; x++) { print += `<center><h3><a href=\"${sitemap3Arr[x].url}\" title=\"${sitemap3Arr[x].judul}\">${sitemap3Arr[x].judul}</a></h3></center><br/>`; }
       elem.innerHTML = `<div class=\"judul\">Total Post: ${sitemap3Arr.length}</div><div>${print}</div>`;
     }
   }
