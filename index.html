@@ -36,7 +36,7 @@ function sitemap3(root) {
     }
     if (feed.entry.length >= max) { start += max; runSitemap3(); } else {
       let print = ''; for (let x = 0; x < sitemap3Arr.length; x++) { print += `<center><h3><a href=\"${sitemap3Arr[x].url}\" title=\"${sitemap3Arr[x].judul}\">${sitemap3Arr[x].judul}</a></h3></center><br/>`; }
-      elem.innerHTML = `<div class=\"judul\"><img width="72" height="72" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2sRvWo1VDPwD5J0tnxKBCAvenMDCV-OXlMbtBhF4HcymTuq_IkQPaGlpGu0qjuC_kanSWDLtaM79bpA2ZLOYrwFC7kPyj9gxsU5ohR7f1SUknNBJZ3JqNqvp7TRJlprwxydspSLWh2gx0BPtEVw3tkvvBLv4umuheIv8IaoLh0WpBPHxdvIh9IwkVg/s16000/kodi_logo.webp"/>Total Post: ${sitemap3Arr.length}</div><div>${print}</div>`;
+      elem.innerHTML = `<div class=\"judul\"><img width="50" height="50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2sRvWo1VDPwD5J0tnxKBCAvenMDCV-OXlMbtBhF4HcymTuq_IkQPaGlpGu0qjuC_kanSWDLtaM79bpA2ZLOYrwFC7kPyj9gxsU5ohR7f1SUknNBJZ3JqNqvp7TRJlprwxydspSLWh2gx0BPtEVw3tkvvBLv4umuheIv8IaoLh0WpBPHxdvIh9IwkVg/s16000/kodi_logo.webp"/>Total Post: ${sitemap3Arr.length}</div><div>${print}</div>`;
     }
   }
 }
